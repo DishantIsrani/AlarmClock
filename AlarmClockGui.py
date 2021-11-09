@@ -37,6 +37,22 @@ def realtime():
     current_time.after(1000, realtime)
 
 
+def set_alarm():
+    global entry1, entry2
+    window = Toplevel()
+    window.geometry("300x150")
+    hours = Label(window, text="At what hour do you want your clock to ring?\n (24hr is preferred format)")
+    hours.place(x=10, y=5)
+    entry1 = Entry(window, relief=GROOVE)
+    entry1.place(x=80, y=40)
+    minutes = Label(window, text='At what minute do you want your clock to ring?')
+    minutes.place(x=20, y=55)
+    entry2 = Entry(window, relief=GROOVE)
+    entry2.place(x=80, y=80)
+
+    begin = Button(window, text="Start", relief=GROOVE)
+    begin.place(x=130, y=120)
+    begin.bind("<Button-1>", begin_alarm)
 
 
 def begin_alarm(event):
