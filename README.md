@@ -15,6 +15,11 @@ main.py
 * Tkinter
 * Datetime
 * Pillow
+* Playsound
+
+
+### GUI Demo Image
+![GUI](https://user-images.githubusercontent.com/67931219/141258894-23e12cd8-1609-4730-aa6d-5e482382c147.png)
 
 
 ### Author 
