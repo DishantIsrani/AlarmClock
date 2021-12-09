@@ -22,5 +22,18 @@ main.py
 ![GUI](https://user-images.githubusercontent.com/67931219/141258894-23e12cd8-1609-4730-aa6d-5e482382c147.png)
 
 
+### Contact
+
+* Contact me anywhere, just visit [My Portfolio](https://dishantisrani.github.io/Dishant-Portfolio/).
+
+### License
+
+* This project is licensed under MIT License, See [LICENSE](/LICENSE) for more information.
+
+### Code of Conduct 
+
+* To contribute to this repository check here, see [CODE OF CONDUCT](/CODE_OF_CONDUCT.md).
+
 ### Author 
-@Author : [Dishant Israni](https://github.com/DishantIsrani)
+
+* @Author : [Dishant Israni](https://github.com/DishantIsrani)
